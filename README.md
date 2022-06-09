@@ -1,5 +1,5 @@
 # Team-Up
-Team-Up is a start up project, dedicated to any kind of hotel that want to explore and optimise they services and the organisation of they team as a intern media to connect and get a ERP version to boost up the system.
+Team-Up is a flutter start up project, dedicated to any kind of hotel that want to explore and optimise they services and the organisation of they team as a intern media to connect and get a ERP version to boost up the system.
 
 
 
