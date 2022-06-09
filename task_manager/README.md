@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+cd task_manager
+flutter pub get
+flutter run
+
+:) Have fun and rate my work !!
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
